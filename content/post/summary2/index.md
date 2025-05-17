@@ -16,7 +16,7 @@ tags:
   - Academic
 
 categories:
-  - Weeks
+  - Science
 ---
 
 ## Введение в контроль версий
