@@ -1,0 +1,11 @@
+[submodule "themes/blox-tailwind"]
+	path = themes/blox-tailwind
+	url = https://github.com/HugoBlox/hugo-blox-builder.git
+[submodule "vlasovas52.github.io"]
+	path = vlasovas52.github.io
+	url = git@github.com:vlasovas52/vlasovas52.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:vlasovas52/vlasovas52.github.io.git
+	branch = main
